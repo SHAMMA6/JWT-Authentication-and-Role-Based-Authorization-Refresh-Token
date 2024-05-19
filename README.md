@@ -2,7 +2,7 @@
  ASP.NET 8 Web API JWT Authentication and Role-Based Authorization
 
 
-# ASP.NET 8 Web API JWT Authentication and Role-Based Authorization Ith Refresh Token
+# ASP.NET 8 Web API JWT Authentication and Role-Based Authorization with Refresh Token
 
 
 
