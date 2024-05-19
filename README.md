@@ -10,7 +10,7 @@
 
 Dtos -
 Static classes & Entities -
-Seed Data
+Seed Data -
 Dependency injection -
 Refactoring -
 Refresh Tokens & Revoks -
