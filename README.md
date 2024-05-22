@@ -12,7 +12,6 @@ Dtos -
 Static classes & Entities -
 Seed Data -
 Dependency injection -
-Refactoring -
 Refresh Tokens & Revoks -
 Pull request -
 Identity Package -
